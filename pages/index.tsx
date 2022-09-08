@@ -13,7 +13,6 @@ const Home: NextPage = () => {
           </Head>
 
           <main className={styles.main}>
-              <Card></Card>
               <h1 className={styles.title}>
                   Welcome to{" "}
                   <a href="https://nextjs.org">Next.js! Wyzebulb Team</a>
